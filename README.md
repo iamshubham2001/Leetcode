@@ -16,6 +16,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamshubham2001/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamshubham2001/Leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/iamshubham2001/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/iamshubham2001/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/iamshubham2001/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamshubham2001/Leetcode/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/iamshubham2001/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/iamshubham2001/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
